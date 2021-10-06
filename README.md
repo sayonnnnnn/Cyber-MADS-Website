@@ -1,3 +1,0 @@
-# Website
-
-npm install
